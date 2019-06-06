@@ -10,6 +10,4 @@ I hope this task doesnt get minus points for that.
 
 To run this app:
 
-Clone or download repository.
-cd into Task folder
-npm start
+Clone or download repository -> cd into Task folder -> npm start
